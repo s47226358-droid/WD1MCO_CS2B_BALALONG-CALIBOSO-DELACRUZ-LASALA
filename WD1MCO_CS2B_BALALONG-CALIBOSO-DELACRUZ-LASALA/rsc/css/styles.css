@@ -53,6 +53,11 @@ a {
 img, video {
     max-width: 100%;
 }
+.website-logo {
+    width: 180px;
+    height: auto;
+    object-fit: contain;
+}
 
 /* === NAVIGATION BAR === */
 .island-navbar {
